@@ -1,6 +1,8 @@
 # Luther Taeleipu-Aiono portfolio
 
-A public, static portfolio presenting what i do in my career and spare time.
+A public, static portfolio presenting what i do in my career and spare time.|
+
+Had to merge awawy from WP for $reasons :(
 
 ## Contents
 
