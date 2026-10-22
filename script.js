@@ -29,7 +29,7 @@
   });
   if (media.addEventListener) media.addEventListener('change', () => { if (choice === 'system') applyTheme(); });
   applyTheme();
-  const themeSwitch = document.querySelector('.theme-switch');
+  const themeSwitch = document.querySelector('.theme');
   if (themeSwitch) themeSwitch.hidden = false;
 
   document.querySelectorAll('[role="tablist"]').forEach(list => {
