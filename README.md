@@ -3,6 +3,7 @@
 A public, static portfolio presenting what i do in my career and spare time.|
 
 Had to merge awawy from WP for $reasons :(
+That and that I am too lazy to do GH
 
 ## Contents
 
