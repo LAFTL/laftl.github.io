@@ -25,6 +25,7 @@ Semantic sections, visible keyboard focus, keyboard-operated example tabs, respo
 All sarcastic commentary are never representative of any opinion on the behalf of, or in the imaging of any business. This is just a personal adventure, so please don't get upset.
 Because I mean 'come on' this is my github space.
 
-## Active Resume codes
+## Current public CV
 
-GSK-TCV-20261018 Arial #151515 18px 'GSK-reg' (great use of arial)
+Updated 13 November 2026 from my Stryker capital equipment CV. The site provides PDF and Word downloads at the existing public CV URLs. Personal contact details and my registration number are omitted from both public files.
+
